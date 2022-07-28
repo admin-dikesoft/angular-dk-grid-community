@@ -9,8 +9,8 @@ DkGrid has ready-to-use features such as **filtering**, **editing**, **selection
 
 The following image shows our grid with some filters and edition actions enabled.
 
-<a href="https://github.com/admin-dikesoft/angular-data-grid/blob/831b80a9b7aef3612899e9540e6312d71c6a5ea6/dk-grid-demo.png" target="_blank">
-  <img src="https://github.com/admin-dikesoft/angular-data-grid/blob/831b80a9b7aef3612899e9540e6312d71c6a5ea6/dk-grid-demo.png" title="DkGrid Demo" style="max-width:100%;">
+<a href="https://raw.githubusercontent.com/admin-dikesoft/angular-dk-grid-community/main/dk-grid-community-demo.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/admin-dikesoft/angular-dk-grid-community/main/dk-grid-community-demo.png" title="DkGrid Demo" style="max-width:100%;">
 <a>
 
 ## Compatibility
